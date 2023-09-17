@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Coding
-excerpt: "A List of Programming Posts"
+title: Python
+excerpt: "A List of Python Posts"
 comments: false
 ---
